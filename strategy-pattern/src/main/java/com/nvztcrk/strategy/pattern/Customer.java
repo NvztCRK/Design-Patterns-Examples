@@ -1,3 +1,5 @@
+package com.nvztcrk.strategy.pattern;
+
 public class Customer {
     private PaymentStrategy paymentStrategy;
 
