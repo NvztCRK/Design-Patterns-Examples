@@ -1,4 +1,4 @@
-package com.nvztcrk.strategy.pattern;
+package com.nvztcrk.observer;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

@@ -5,7 +5,7 @@ interchangeable. Strategy lets the algorithm vary independently from clients
 that use it.
 
 
-## Applicability
+## Usage
 Use the Strategy pattern when
 
 * many related classes differ only in their behavior. Strategies provide a way to configure a class either one of many behaviors
