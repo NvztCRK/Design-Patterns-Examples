@@ -1,4 +1,4 @@
-package com.nvztcrk.observer;
+package com.nvztcrk.strategy;
 
 public class Customer {
     private PaymentStrategy paymentStrategy;

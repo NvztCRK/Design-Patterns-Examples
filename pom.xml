@@ -15,7 +15,7 @@
     </properties>
     <modules>
         <module>strategy-pattern</module>
-        <module>observerpattern</module>
+        <module>observer-pattern</module>
     </modules>
     <dependencyManagement>
         <dependencies>
