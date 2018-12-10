@@ -7,7 +7,7 @@ public class App {
     private static final Logger logger = LoggerFactory.getLogger(App.class);
 
     public static void main(String[] args) {
-
+        //deneme
         Observable newspaper = new Newspaper();
         newspaper.add(new Resident());
         newspaper.add(new Economist());
